@@ -1,0 +1,170 @@
+{
+  "name": "buildID 0",
+  "color": "hsl(187, 70%, 50%)",
+  "children": [
+    {
+      "name": "moduleName:ÖÖÖÖÖÖÖÖ1 + onHOST : 'hostname1' ..får jag nog pilla in...???",
+      "color": "hsl(87, 70%, 50%)",
+      "children": [
+        {
+          "name": "message: WYYYYYYYYYYY* 12*45*02*599 |-YYYYY YY YY.YYY.YYYYYYY.YYYY.YYYYYYYYYYYY[YYYYYYY] - YYYYYY YY YYYYYY YYYYYY YYYYYYYYYYY YYY [/YYY/YYY/YYYY/YYYYYY/ÖÖÖÖÖÖÖÖ1/ÖÖÖÖÖÖÖÖ1.YYY]",
+          "color": "hsl(99, 98%, 51%)",
+          "loc": 1 //occurrances
+        },
+        {
+          "name": "message:               \"message\":\"WYYYYYYYYYYY* 12*45*02*599 |-YYYYY YY YY.YYY.YYYYYYY.YYYY.YYYYYYYYYYYY[YYYYYYY] - YYYYYYYY(/YYY/YYY/YYYY/YYYYYY/ÖÖÖÖÖÖÖÖ1/ÖÖÖÖÖÖÖÖ1.YYY*YYYY) YYYY YYYYYY. YYYY.YY.YYYYYYYYYYYYYxYYYYYYY* /YYY/YYY/YYYY/YYYYYY/ÖÖÖÖÖÖÖÖ1/ÖÖÖÖÖÖÖÖ1.YYY (YY YYYY YYYY YY YYYYYYYYy)",
+          "color": "hsl(53, 100%, 50%)",
+          "loc": 1
+        }
+      ]
+    },
+
+    {
+      "buildID":"0",
+      "modules":[
+        {
+          "moduleName":"ÖÖÖÖÖÖÖÖ1",
+          "errors":[
+            {
+              "message":"WYYYYYYYYYYY* 12*45*02*599 |-YYYYY YY YY.YYY.YYYYYYY.YYYY.YYYYYYYYYYYY[YYYYYYY] - YYYYYY YY YYYYYY YYYYYY YYYYYYYYYYY YYY [/YYY/YYY/YYYY/YYYYYY/ÖÖÖÖÖÖÖÖ1/ÖÖÖÖÖÖÖÖ1.YYY]",
+              "occurrences":"1"
+            },
+            {
+              "message":"WYYYYYYYYYYY* 12*45*02*599 |-YYYYY YY YY.YYY.YYYYYYY.YYYY.YYYYYYYYYYYY[YYYYYYY] - YYYYYYYY(/YYY/YYY/YYYY/YYYYYY/ÖÖÖÖÖÖÖÖ1/ÖÖÖÖÖÖÖÖ1.YYY*YYYY) YYYY YYYYYY. YYYY.YY.YYYYYYYYYYYYYxYYYYYYY* /YYY/YYY/YYYY/YYYYYY/ÖÖÖÖÖÖÖÖ1/ÖÖÖÖÖÖÖÖ1.YYY (YY YYYY YYYY YY YYYYYYYYy)",
+              "occurrences":"1"
+            }
+          ],
+          "onHost":"ÄÄÄ1"
+        },
+
+
+
+
+    {
+      "name": "org/apache/commons/codec/language",
+      "color": "hsl(87, 70%, 50%)",
+      "children": [
+        {
+          "name": "Tested",
+          "color": "hsl(99, 98%, 51%)",
+          "loc": 100
+        },
+        {
+          "name": "Partially tested",
+          "color": "hsl(53, 100%, 50%)",
+          "loc": 5
+        },
+        {
+          "name": "Not covered",
+          "color": "hsl(348, 100%, 50%)",
+          "loc": 3
+        }
+      ]
+    },
+    {
+      "name": "org/apache/commons/codec/binary",
+      "color": "hsl(87, 70%, 50%)",
+      "children": [
+        {
+          "name": "Tested",
+          "color": "hsl(99, 98%, 51%)",
+          "loc": 98
+        },
+        {
+          "name": "Partially tested",
+          "color": "hsl(53, 100%, 50%)",
+          "loc": 4
+        },
+        {
+          "name": "Not covered",
+          "color": "hsl(348, 100%, 50%)",
+          "loc": 1
+        }
+      ]
+    },
+    {
+      "name": "org/apache/commons/codec/net",
+      "color": "hsl(87, 70%, 50%)",
+      "children": [
+        {
+          "name": "Tested",
+          "color": "hsl(99, 98%, 51%)",
+          "loc": 57
+        },
+        {
+          "name": "Partially tested",
+          "color": "hsl(53, 100%, 50%)",
+          "loc": 4
+        },
+        {
+          "name": "Not covered",
+          "color": "hsl(348, 100%, 50%)",
+          "loc": 0
+        }
+      ]
+    },
+    {
+      "name": "org/apache/commons/codec/language/bm",
+      "color": "hsl(87, 70%, 50%)",
+      "children": [
+        {
+          "name": "Tested",
+          "color": "hsl(99, 98%, 51%)",
+          "loc": 51
+        },
+        {
+          "name": "Partially tested",
+          "color": "hsl(53, 100%, 50%)",
+          "loc": 2
+        },
+        {
+          "name": "Not covered",
+          "color": "hsl(348, 100%, 50%)",
+          "loc": 5
+        }
+      ]
+    },
+    {
+      "name": "org/apache/commons/codec/cli",
+      "color": "hsl(87, 70%, 50%)",
+      "children": [
+        {
+          "name": "Tested",
+          "color": "hsl(99, 98%, 51%)",
+          "loc": 0
+        },
+        {
+          "name": "Partially tested",
+          "color": "hsl(53, 100%, 50%)",
+          "loc": 0
+        },
+        {
+          "name": "Not covered",
+          "color": "hsl(348, 100%, 50%)",
+          "loc": 8
+        }
+      ]
+    },
+    {
+      "name": "org/apache/commons/codec",
+      "color": "hsl(87, 70%, 50%)",
+      "children": [
+        {
+          "name": "Tested",
+          "color": "hsl(99, 98%, 51%)",
+          "loc": 3
+        },
+        {
+          "name": "Partially tested",
+          "color": "hsl(53, 100%, 50%)",
+          "loc": 0
+        },
+        {
+          "name": "Not covered",
+          "color": "hsl(348, 100%, 50%)",
+          "loc": 0
+        }
+      ]
+    }
+  ]
+}
