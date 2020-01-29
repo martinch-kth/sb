@@ -65,10 +65,10 @@ class App extends Component {
 
                               // vid långa message för errors.. så bryt av raden med \n  ...gah..
 
-                              root={{"name":"Mutation test","color":"hsl(17, 20%, 20%)","children":[
+                              root={{"name":"All Modules","color":"hsl(17, 20%, 20%)","children":[
 
                                       {
-                                          "name": "moduleName:ÖÖÖÖÖÖÖÖ1 + onHOST : 'hostname1' ...???",
+                                          "name": "moduleName:ÖÖÖÖÖÖÖÖ1 + onHOST : 'hostname1'\n",
                                           "color": "hsl(87, 70%, 50%)",
                                           "children": [
                                               {
@@ -85,7 +85,7 @@ class App extends Component {
                                       },
 
                                       {
-                                          "name": "moduleName:ÖÖÖÖÖÖÖÖ2 + onHOST : 'hostname2' ..???",
+                                          "name": "moduleName:ÖÖÖÖÖÖÖÖ2 + onHOST : 'hostname2'\n",
                                           "color": "hsl(47, 50%, 30%)",
                                           "children": [
                                               {
